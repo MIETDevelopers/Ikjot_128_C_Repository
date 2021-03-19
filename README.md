@@ -1,1 +1,1 @@
-# Ikjot_C_Programs_Repositerytanisha
+# Ikjot_C_Programs_Repositery
