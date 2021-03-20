@@ -44,4 +44,4 @@ int main() // Start of Main body
     printf("Result: %d %c %d = %f\n",num1,var,num2,result); // Printing statment 
     return 0; // returning 0 
 }
-// End of body 
+// End of body  
